@@ -1,1 +1,1 @@
-asdfdafjbdshj
+print("ben bu degisilikligi developta yaptım.")
