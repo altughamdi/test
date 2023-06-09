@@ -1,1 +1,1 @@
-print("ben bu degisilikligi developta yaptım.")
+print("ben bu degisilikligi bugfixte yaptım.")
