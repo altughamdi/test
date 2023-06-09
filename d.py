@@ -1,0 +1,1 @@
+Bu degisiklikleri mac'te yaptım
